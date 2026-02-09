@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian Brain | </title>
+    <link>http://localhost:1313/tags/bayesian-brain/</link>
+      <atom:link href="http://localhost:1313/tags/bayesian-brain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian Brain</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Bayesian Brain</title>
+      <link>http://localhost:1313/tags/bayesian-brain/</link>
+    </image>
+    
+    <item>
+      <title>Direct Realism under the Bayesian Brain Hypothesis</title>
+      <link>http://localhost:1313/projects/postdoc-foundation/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/postdoc-foundation/</guid>
+      <description>&lt;p&gt;[cite_start]本项目探讨在贝叶斯大脑假说框架下的直接实在论可能性 [cite: 26]。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
