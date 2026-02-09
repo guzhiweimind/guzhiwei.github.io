@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ted | </title>
-    <link>https://example.com/authors/ted/</link>
-      <atom:link href="https://example.com/authors/ted/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://guzhiweimind.github.io/authors/ted/</link>
+      <atom:link href="https://guzhiweimind.github.io/authors/ted/index.xml" rel="self" type="application/rss+xml" />
     <description>Ted</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://example.com/blog/get-started/</link>
+      <link>https://guzhiweimind.github.io/blog/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/get-started/</guid>
+      <guid>https://guzhiweimind.github.io/blog/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
